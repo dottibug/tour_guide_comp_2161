@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="header">Tour Guide</string>
+    <string name="welcome">Welcome to the Tour Guide App! Select a city above to learn more about it.</string>
+    <string-array name="cities">
+        <item>Calgary</item>
+        <item>Victoria</item>
+        <item>Vancouver</item>
+        <item>Toronto</item>
+        <item>Halifax</item>
+        <item>Montreal</item>
+        <item>Fredericton</item>
+    </string-array>
+    <string name="Calgary">Calgary is the largest city in the prairie province of Alberta.
+        Calgary was named after Calgary Castle on the Isle of Mull in Scotland. The Indigenous
+        peoples of Southern Alberta refer to the Calgary area as \"elbow\", in reference to the
+        sharp bend made by the Bow River and the Elbow River. While the oil and gas industry
+        comprise an important part of the economy, the city has invested a great deal into other
+        areas such as tourism and high-tech manufacturing. Over 3.1 million people now visit the
+        city annually for its many festivals and attractions, especially the Calgary Stampede.
+        Calgary has the sunniest days year-round of Canada\'s 100 largest cities, with slightly
+        over 332 days of sun. Thunderstorms can be frequent and sometimes severe with most of
+        them occurring in the summer months. Calgary lies within Alberta\'s Hailstorm Alley and
+        is prone to damaging hailstorms every few years.
+    </string>
+    <string name="Victoria">Victoria is the capital city of British Columbia. Named for Queen
+        Victoria, the city is one of the oldest in the Pacific Northwest, with British settlement
+        beginning in 1843. The city has retained a large number of its historic buildings, in
+        particular its two most famous landmarks, the Parliament Buildings and the Empress Hotel.
+        The city\'s Chinatown is the second oldest in North America, after that of San Francisco.
+        The region\'s Coast Salish First Nations peoples established communities in the area long
+        before European settlement. Known as \"the Garden City\", Victoria is an attractive city
+        and a popular tourism destination. Canada Day fireworks displays, Symphony Splash, and
+        many other music festivals and cultural events draw tens of thousands of Greater
+        Victorians and visitors to the downtown core. The Rifflandia and Electronic Music
+        Festival are other music events that draw crowds to the downtown core. Every year, the
+        Swiftsure International Yacht Race attracts boaters from around the world to participate
+        in the boat race in the waters off of Vancouver Island, and the Victoria Dragon Boat
+        Festival brings over 90 teams from around North America. The Tall Ships Festival brings
+        sailing ships to the city harbour. Victoria also hosts the start of the Vic-Maui Yacht Race.
+    </string>
+    <string name="Vancouver">Vancouver is a coastal city in the Lower Mainland of British
+        Columbia. It is known for beautiful mountain scenery, cultural diversity, and stunning
+        waterfront. It has been consistently ranked one of the most livable cities in Canada and
+        in the world. Indigenous settlement of Vancouver began more than 10,000 years ago and
+        included the Squamish, Musqueam, and Tsleil-Waututh peoples. While forestry remains its
+        largest industry, Vancouver is well known as an urban centre surrounded by nature. A
+        collection of Edwardian buildings in the city\'s old downtown core were, in their day,
+        the tallest commercial buildings in the British Empire. These were, in succession, the
+        Carter-Cotton Building, the Dominion Building, and the Sun Tower (the former two at
+        Cambie and Hastings Streets and the latter at Beatty and Pender Streets). Vancouver has
+        been called a \"city of neighbourhoods.\" Each neighbourhood in Vancouver has a distinct
+        character and ethnic mix. People of English, Scottish, and Irish origins were
+        historically the largest ethnic groups in the city, and elements of British society and
+        culture are still visible in some areas, particularly South Granville and Kerrisdale.
+        Germans are the next-largest European ethnic group in Vancouver and were a leading force
+        in the city\'s society and economy until the rise of anti-German sentiment with the
+        outbreak of World War I in 1914. Today the Chinese are the largest visible ethnic group
+        in Vancouver; the city has a diverse Chinese-speaking community with speakers of several
+        dialects, notably Cantonese and Mandarin. Neighbourhoods with distinct ethnic commercial
+        areas include Chinatown, Punjabi Market, Little Italy, Greektown, and (formerly) Japantown.
+    </string>
+    <string name="Toronto">Toronto is the most populous city in Canada and the capital city of
+        Ontario. The diverse population of Toronto reflects its current and historical role as an
+        important destination for immigrants to Canada. About half of its residents were born
+        outside of Canada, and over 200 ethnic origins are represented among its inhabitants.
+        Toronto is a prominent centre for music, theatre, motion picture production, and
+        television production. Toronto is known for its many skyscrapers and high-rise buildings,
+        in particular the tallest free-standing structure on land outside of Asia, the CN Tower.
+        Indigenous peoples have travelled through and inhabited the Toronto area for more than
+        10,000 years. After the broadly disputed Toronto Purchase, when the Mississauga
+        surrendered the area to the British Crown, the British established the town of York in
+        1793 and later designated it as the capital of Upper Canada. York was renamed and
+        incorporated in 1834 as the city of Toronto. It was designated as the capital of the
+        province of Ontario in 1867 during Canadian Confederation.
+    </string>
+    <string name="Halifax">Halifax is the capital and most populous municipality of the Canadian
+        province of Nova Scotia. The Mi\'kmaq name for Halifax is Kjipuktuk, pronounced
+        \"che-book-took\". The name means \"Great Harbour\" in the Mi\'kmaq language. Halifax is a
+        major cultural centre within the Atlantic provinces. The municipality has maintained many
+        of its maritime and military traditions, while opening itself to a growing multicultural
+        population. The municipality\'s urban core also benefits from a large population of
+        post-secondary students who strongly influence the local cultural scene. Halifax has a
+        number of art galleries, theatres and museums, as well as most of the region\'s
+        national-quality sports and entertainment facilities. Halifax is also the home to many of
+        the region\'s major cultural attractions, such as Halifax Pop Explosion, Symphony Nova
+        Scotia, the Art Gallery of Nova Scotia, The Khyber, the Maritime Museum of the Atlantic
+        and the Neptune Theatre. The region is noted for the strength of its music scene and
+        nightlife, especially within the urban communities.
+    </string>
+    <string name="Montreal">Montreal is the largest city in the province of Quebec. Founded in
+        1642 as Ville-Marie, or \"City of Mary\", it is now named after Mount Royal, the
+        triple-peaked mountain around which the early settlement was built. French is the city\'s
+        official language. In the Ojibwe language, the land is called Mooniyaang, which was \"the
+        first stopping place\" in the Ojibwe migration story. Archaeological evidence in the
+        region indicates that First Nations native people occupied the island of Montreal as
+        early as 4,000 years ago. The Saint Lawrence Iroquoians established the village of
+        Hochelaga at the foot of Mount Royal two centuries before the French arrived. Montreal
+        was the capital of the Province of Canada from 1844 to 1849, but lost its status when a
+        Tory mob burnt down the Parliament building to protest the passage of the Rebellion
+        Losses Bill. In 2006, Montreal was named a UNESCO City of Design, one of only three
+        design capitals in the world. The Underground City (officially RÉSO), an important
+        tourist attraction, is an underground network connecting shopping centres, pedestrian
+        thoroughfares, universities, hotels, restaurants, bistros, subway stations and more, in
+        and around downtown. The city is composed of 19 large boroughs, subdivided into
+        neighbourhoods. Many of these boroughs were independent cities that were forced to merge
+        with Montreal in January 2002 following the 2002 municipal reorganization of Montreal.
+    </string>
+    <string name="Fredericton">Fredericton is the capital city of New Brunswick. The city hosts
+        the annual Harvest Jazz and Blues Festival, attracting regional and international jazz,
+        blues, rock, and world artists. The city also hosts the Garrison Night Market through the
+        summer months which showcases many local vendors and artists and musicians. Fredericton
+        is also an important and vibrant centre point for the region\'s top visual artists; many
+        of New Brunswick\'s notable artists live and work there today. Fredericton has also been
+        home to some great historical Canadian painters as well, including Goodridge Roberts, and
+        Molly and Bruno Bobak. As a provincial capital, its economy is tied to the public sector;
+        however, the city also contains a growing IT and commercial sector. The city has the
+        highest percentage of residents with post-secondary education in the province and the
+        highest per capita income of any city in New Brunswick. There is archaeological evidence
+        of a camp in the area 12,000 years ago, and the Wolastoqiyik farmed several kilometres
+        upriver. Colonists from the Kingdom of France in the late 1600s built Fort Nashwaak on
+        the north side of the Saint John River, as the capital of Acadia.
+    </string>
+</resources>
+

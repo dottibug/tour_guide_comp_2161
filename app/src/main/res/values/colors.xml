@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="eggshell">#FAF5F0</color>
+    <color name="khaki">#e3d5ca</color>
+    <color name="khaki_dark">#6D675F</color>
+    <color name="jet">#373430</color>
+</resources>
